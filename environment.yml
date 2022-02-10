@@ -1,0 +1,9 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+prefix: C:\Users\solan\anaconda3\envs\ml
